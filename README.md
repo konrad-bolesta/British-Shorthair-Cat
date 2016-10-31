@@ -1,2 +1,2 @@
 # British-Shorthair-Cat
-A website about cats. Built with Bootstrap
+A website about cats. Built with Bootstrap.

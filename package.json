@@ -1,0 +1,26 @@
+{
+  "name": "british-cat",
+  "version": "1.0.0",
+  "description": "A website about cats. Built with Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konrad-bolesta/British-Shorthair-Cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konrad-bolesta/British-Shorthair-Cat/issues"
+  },
+  "homepage": "https://github.com/konrad-bolesta/British-Shorthair-Cat#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  }
+}
